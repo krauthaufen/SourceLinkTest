@@ -1,0 +1,3 @@
+id SourceLinkTestXYZ
+type project
+include-pdbs true
