@@ -1,0 +1,10 @@
+STORAGE: NONE
+RESTRICTION: || (== net471) (== netcoreapp3.1) (== netstandard2.0)
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    FSharp.Core (5.0)
+    Microsoft.Build.Tasks.Git (1.1.1)
+    Microsoft.SourceLink.Common (1.1.1)
+    Microsoft.SourceLink.GitHub (1.1.1)
+      Microsoft.Build.Tasks.Git (>= 1.1.1)
+      Microsoft.SourceLink.Common (>= 1.1.1)
